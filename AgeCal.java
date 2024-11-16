@@ -1,5 +1,4 @@
-
-public class AgeCalculator3 {
+public class AgeCal {
 
     public static void main(String[] args) {
         // Ensure four command line arguments are provided
